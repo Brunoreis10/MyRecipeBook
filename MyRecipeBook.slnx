@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/" />
+  <Folder Name="/src/Backend/">
+    <Project Path="src/Backend/MyRecipeBook.API/MyRecipeBook.API.csproj" />
+  </Folder>
+  <Folder Name="/src/Shared/" />
+  <Folder Name="/tests/" />
+</Solution>
